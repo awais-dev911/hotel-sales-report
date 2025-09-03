@@ -1,0 +1,61 @@
+Date,Customer,Product,Quantity,Price,Total
+2025-08-05,John,Room Booking,1,120.0,120.0
+2025-08-06,John,Laundry,0,0.0,0.0
+2025-08-11,Ali,Spa Service,3,40.0,120.0
+2025-08-13,Sara,Dinner Buffet,1,25.0,25.0
+2025-08-01,Zara,Dinner Buffet,2,25.0,50.0
+2025-08-01,Sara,Dinner Buffet,3,25.0,75.0
+2025-08-12,Fatima,Room Booking,3,120.0,360.0
+2025-08-02,John,Room Booking,0,120.0,0.0
+2025-08-13,Ali,Room Booking,3,120.0,360.0
+2025-08-12,Sara,Dinner Buffet,2,25.0,50.0
+2025-08-04,Ahmed,Spa Service,2,40.0,80.0
+2025-08-12,Ahmed,Spa Service,0,40.0,0.0
+2025-08-04,Maria,Laundry,2,10.0,20.0
+2025-08-11,Ali,Laundry,3,10.0,30.0
+2025-08-14,David,Laundry,3,10.0,30.0
+2025-08-12,Bilal,Laundry,1,10.0,10.0
+2025-08-13,John,Room Booking,2,120.0,240.0
+2025-08-04,Ali,Spa Service,0,40.0,0.0
+2025-08-13,Maria,Breakfast,3,15.0,45.0
+2025-08-01,Fatima,Dinner Buffet,2,25.0,50.0
+2025-08-01,Ali,Laundry,3,10.0,30.0
+2025-08-09,Sophia,Breakfast,2,15.0,30.0
+2025-08-15,Zara,Spa Service,2,40.0,80.0
+2025-08-02,Sara,Laundry,0,10.0,0.0
+2025-08-05,Maria,Laundry,2,10.0,20.0
+2025-08-03,Fatima,Room Booking,1,120.0,120.0
+2025-08-12,Zara,Room Booking,2,120.0,240.0
+2025-08-01,Fatima,Breakfast,2,15.0,30.0
+2025-08-02,Bilal,Room Booking,3,120.0,360.0
+2025-08-08,John,Room Booking,1,120.0,120.0
+2025-08-10,Maria,Airport Pickup,0,30.0,0.0
+2025-08-12,Sara,Dinner Buffet,1,25.0,25.0
+2025-08-10,Ahmed,Laundry,3,10.0,30.0
+2025-08-06,Sophia,Spa Service,1,40.0,40.0
+2025-08-15,Fatima,Airport Pickup,1,30.0,30.0
+2025-08-11,Sara,Laundry,1,10.0,10.0
+2025-08-13,Maria,Laundry,3,10.0,30.0
+2025-08-09,Bilal,Breakfast,2,15.0,30.0
+2025-08-01,Fatima,Breakfast,3,15.0,45.0
+2025-08-03,Ali,Laundry,1,10.0,10.0
+2025-08-15,Fatima,Spa Service,1,40.0,40.0
+2025-08-12,Sara,Room Booking,3,120.0,360.0
+2025-08-11,Sara,Laundry,0,10.0,0.0
+2025-08-14,Sophia,Room Booking,2,120.0,240.0
+2025-08-03,Ahmed,Spa Service,0,0.0,0.0
+2025-08-08,David,Dinner Buffet,3,25.0,75.0
+2025-08-12,John,Breakfast,1,15.0,15.0
+2025-08-01,Ali,Dinner Buffet,1,25.0,25.0
+2025-08-15,Zara,Dinner Buffet,1,25.0,25.0
+2025-08-15,Ali,Breakfast,2,15.0,30.0
+2025-08-04,Ali,Dinner Buffet,1,25.0,25.0
+2025-08-08,Ahmed,Spa Service,1,40.0,40.0
+2025-08-03,Ali,Airport Pickup,1,30.0,30.0
+2025-08-04,Zara,Laundry,3,0.0,0.0
+2025-08-06,Sophia,Room Booking,2,120.0,240.0
+2025-08-06,Bilal,Laundry,1,10.0,10.0
+2025-08-15,Sophia,Spa Service,3,40.0,120.0
+2025-08-13,Ali,Breakfast,2,15.0,30.0
+2025-08-12,David,Airport Pickup,1,30.0,30.0
+2025-08-05,Bilal,Airport Pickup,1,0.0,0.0
